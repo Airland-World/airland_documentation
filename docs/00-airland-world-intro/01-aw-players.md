@@ -7,7 +7,7 @@ title: Airland World Game
 
 Airland World is a vast planetary playground, a living virtual universe where players can create their own custom avatars and embark on limitless adventures. Whether you're exploring uncharted territories, building your dream home, surviving against the odds in the wilderness, or taking on thrilling missions, every experience is uniquely yours. In Airland World, your character grows, evolves, and becomes a part of an ever-changing story shaped by both the Airland team and an active community of creators.
 
-![Image](mount.jpg)
+![Image](../img/mount.jpg)
 
 
 But Airland World isn't just a game—it's a platform. Beyond playing, you'll discover a universe designed for creativity, where you can modify environments, craft new experiences, and even develop standalone games using the powerful Airland World Editor.
