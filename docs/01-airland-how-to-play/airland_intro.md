@@ -11,8 +11,6 @@ Create your characters using our character creator, add clothes etc
 
 See this video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ycfeP7qZMoE?si=LfEXASURjtojAIJZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true"></iframe>
-
 
 
 ### Free roam in the world
