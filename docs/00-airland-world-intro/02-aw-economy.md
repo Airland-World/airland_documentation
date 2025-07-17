@@ -8,7 +8,7 @@ title: The Marketplace
 
 The Airland Economy System is designed to offer players and creators flexibility and reward participation. Your gaming experience can be enhanced by acquiring marketplace assets, either using real money or Airland Credits—the in-game currency of Airland World. Airland Credits can be purchased through convenient credit packages or earned by contributing to the ecosystem as a creator.
 
-![Image](street.jpeg)
+![Image](../img/street.jpeg)
 
 Whether you're designing a unique vehicle, scripting a thrilling quest, or building an expansive cityscape, your creations can earn you credits based on downloads and user engagement. These credits can then be reinvested into the Marketplace, enabling you to access premium assets, tools, or experiences.
 
