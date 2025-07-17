@@ -8,7 +8,7 @@ title: For Game Developers
 
 Airland World provides professional creators with a groundbreaking platform to bring their game ideas to life faster and more efficiently. By leveraging pre-built terrain technology, modification tools, and genre templates for Survival, FPS, Driving, and Flight Simulation, you can save up to 70-80% of development time and focus on what truly matters—your creative vision.
 
-![Image](forest.jpg)
+![Image](../img/forest.jpg)
 
 
 With the Airland World Editor, you’ll have complete creative freedom over your assets, servers, and gameplay mechanics. Whether you're building premium experiences within Airland World, where players can use their existing avatars and immerse themselves in your creations, or developing fully standalone games using Airland’s underlying technology, the choice is yours.
